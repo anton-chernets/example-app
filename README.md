@@ -40,3 +40,9 @@ Tests
 ```bash
 php artisan test
 ```
+
+Queue
+```
+php artisan queue:work
+php artisan horizon
+```
