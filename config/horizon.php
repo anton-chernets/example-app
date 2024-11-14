@@ -1,4 +1,4 @@
-php artisan horizon<?php
+<?php
 
 use Illuminate\Support\Str;
 
