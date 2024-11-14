@@ -30,3 +30,9 @@ cd example-app
 ```
 
 Finally, you can access the application in your web browser at: http://localhost.
+
+Tests
+
+```bash
+php artisan test
+```
