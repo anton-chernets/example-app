@@ -1,6 +1,13 @@
 Example App:
 http://37.27.81.184/
 http://37.27.81.184/horizon/dashboard
+http://37.27.81.184/upload
+
+Files Storage
+```
+php artisan storage:link
+```
+
 
 Docker Installation Using Sail
 [https://laravel.com/docs/11.x/installation#docker-installation-using-sail](https://laravel.com/docs/11.x/installation#docker-installation-using-sail)
